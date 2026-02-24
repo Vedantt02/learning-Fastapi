@@ -4,6 +4,7 @@ Built using FastAPI.
 
 ## Features
 - Create patient
+- Retrieve patient information
 - Update patient
 - Delete patient
 - BMI auto-calculation
