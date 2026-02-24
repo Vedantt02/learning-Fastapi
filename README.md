@@ -17,4 +17,5 @@ Built using FastAPI.
 ## Run Locally
 
 pip install -r requirements.txt
+
 uvicorn main:app --reload
